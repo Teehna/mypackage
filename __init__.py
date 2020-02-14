@@ -1,0 +1,1 @@
+__from . import myModule
